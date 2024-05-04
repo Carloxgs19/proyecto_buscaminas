@@ -5,6 +5,11 @@
 int main(int argc, char const *argv[])
 {
     int;
+    if (/* condition */)
+    {
+        /* code */
+    }
+    
     return 0;
 }
 
